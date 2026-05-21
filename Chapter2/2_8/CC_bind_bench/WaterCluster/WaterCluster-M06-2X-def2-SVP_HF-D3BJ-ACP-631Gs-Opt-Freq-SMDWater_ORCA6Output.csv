@@ -1,0 +1,2 @@
+Identifier,Method,Basis Set,Number of Basis Functions,Charge,Multiplicity,Molecular Weight,RAM Used (MB),Number of Processors,Total CPU Time (s),Electronic Energy (HF),Enthalpy (HF),Entropy (HF),Gibbs Free Energy (HF),Vibrational Frequency 6 (cm-1),Vibrational Frequency 7 (cm-1),Vibrational Frequency 8 (cm-1),Vibrational Frequency 9 (cm-1)
+WaterCluster,HF,D3BJ,72.0,0.0,1.0,72.06,73.0,1.0,418.0,-312.29292108,-312.19105039,0.0459713,-312.23702168,-107.19,-91.93,34.48,65.85

@@ -1,0 +1,2 @@
+Identifier,Method,Basis Set,Number of Basis Functions,Charge,Multiplicity,Molecular Weight,RAM Used (MB),Number of Processors,Total CPU Time (s),Electronic Energy (HF),Enthalpy (HF),Entropy (HF),Gibbs Free Energy (HF),Vibrational Frequency 6 (cm-1),Vibrational Frequency 7 (cm-1),Vibrational Frequency 8 (cm-1),Vibrational Frequency 9 (cm-1)
+WaterCluster,M062X,def2-SVP,96.0,0.0,1.0,72.06,47.0,1.0,311.0,-305.37678493,-305.2687566,0.04600037,-305.31475697,32.95,33.08,187.87,189.48

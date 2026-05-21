@@ -1,0 +1,16 @@
+Identifier,Error Code,Method,Basis Set,Number of Basis Functions,Charge,Multiplicity,Molecular Weight,RAM Used (MB),Number of Processors,Total CPU Time (s),Electronic Energy (HF)
+Argon,.XYZ File not found,DLPNO-CCSD(T),cc-pVTZ,96,1,1,46.89,94.2,4,44,-534.3035622
+Carbonyl,.XYZ File not found,DLPNO-CCSD(T),cc-pVTZ,109,1,1,34.95,192,4,65,-120.4304331
+Dimethylether,.XYZ File not found,DLPNO-CCSD(T),cc-pVTZ,229,1,1,53.01,1297.8,4,319,-162.0893274
+Ethanol,.XYZ File not found,DLPNO-CCSD(T),cc-pVTZ,229,1,1,53.01,1403.2,4,349,-162.1111439
+i-Propanol,.XYZ File not found,DLPNO-CCSD(T),cc-pVTZ,293,1,1,67.03,2814.2,4,734,-201.358867
+Imidazole,.XYZ File not found,DLPNO-CCSD(T),cc-pVTZ,273,1,1,75.02,3549.5,4,962,-233.1625056
+Lithium,"Unknown Error, probably timeout",DLPNO-CCSD(T),cc-pVTZ,37,1,1,6.94,20.5,4,,-7.249354507
+Methanol,.XYZ File not found,DLPNO-CCSD(T),cc-pVTZ,165,1,1,38.98,454.8,4,123,-122.8627431
+Pyrazine,.XYZ File not found,DLPNO-CCSD(T),cc-pVTZ,309,1,1,87.03,3567.1,4,1625,-271.1612251
+Pyridazine,.XYZ File not found,DLPNO-CCSD(T),cc-pVTZ,309,1,1,87.03,3569,4,1425,-271.1613474
+Pyridine,.XYZ File not found,DLPNO-CCSD(T),cc-pVTZ,323,1,1,86.04,3570.6,4,1339,-255.1516888
+Pyrimidine,.XYZ File not found,DLPNO-CCSD(T),cc-pVTZ,309,1,1,87.03,3575.1,4,1280,-271.1717204
+s-Triazine,.XYZ File not found,DLPNO-CCSD(T),cc-pVTZ,295,1,1,88.02,3548.1,4,1131,-287.1946581
+t-Butanol,.XYZ File not found,DLPNO-CCSD(T),cc-pVTZ,357,1,1,81.06,3552.9,4,1406,-240.6060281
+Water,.XYZ File not found,DLPNO-CCSD(T),cc-pVTZ,101,1,1,24.96,115.6,4,54,-83.64027905

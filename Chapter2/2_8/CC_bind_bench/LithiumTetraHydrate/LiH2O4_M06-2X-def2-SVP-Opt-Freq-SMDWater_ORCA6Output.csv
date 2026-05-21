@@ -1,0 +1,2 @@
+Identifier,Method,Basis Set,Number of Basis Functions,Charge,Multiplicity,Molecular Weight,RAM Used (MB),Number of Processors,Total CPU Time (s),Electronic Energy (HF),Enthalpy (HF),Entropy (HF),Gibbs Free Energy (HF),Vibrational Frequency 6 (cm-1),Vibrational Frequency 7 (cm-1),Vibrational Frequency 8 (cm-1),Vibrational Frequency 9 (cm-1)
+LiH2O4,M062X,def2-SVP,105.0,1.0,1.0,79.0,66.7,8.0,628.0,-312.88439985,-312.77265628,0.05155455,-312.82421083,55.38,74.47,78.32,89.67

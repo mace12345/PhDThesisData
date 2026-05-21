@@ -1,0 +1,6 @@
+Identifier,Method,Basis Set,Number of Basis Functions,Charge,Multiplicity,Molecular Weight,RAM Used (MB),Number of Processors,Total CPU Time (s),Electronic Energy (HF),Enthalpy (HF),Entropy (HF),Gibbs Free Energy (HF),Vibrational Frequency 6 (cm-1),Vibrational Frequency 7 (cm-1),Vibrational Frequency 8 (cm-1),Vibrational Frequency 9 (cm-1)
+AceticAcid,M062X,def2-TZVP,142.0,-1.0,1.0,59.04,33.9,8.0,510.0,-228.5211965,-228.46717479,0.03204157,-228.49921636,55.33,440.84,611.93,642.71
+DiSelenolAceticAcid,M062X,def2-TZVP,176.0,-1.0,1.0,184.96,45.0,8.0,2763.0,-4881.21963716,-4881.16975266,0.03732928,-4881.20708194,73.11,207.96,317.9,430.13
+EthaneDithioicAcid,M062X,def2-TZVP,154.0,-1.0,1.0,91.18,36.5,8.0,1598.0,-874.43541648,-874.38467981,0.03455032,-874.41923012,71.99,337.61,373.37,483.56
+SelenoAceticAcid,M062X,def2-TZVP,159.0,-1.0,1.0,122.0,38.7,8.0,2796.0,-2554.87673796,-2554.82469181,0.03477561,-2554.85946742,72.27,319.25,401.5,516.34
+ThiolAceticAcid,M062X,def2-TZVP,148.0,-1.0,1.0,75.11,35.5,8.0,1618.0,-551.48030794,-551.42792901,0.03334431,-551.46127332,66.41,368.96,501.27,547.86
