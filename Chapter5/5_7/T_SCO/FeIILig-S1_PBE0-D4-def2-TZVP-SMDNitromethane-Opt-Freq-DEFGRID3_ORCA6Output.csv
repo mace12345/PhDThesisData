@@ -1,0 +1,42 @@
+Identifier,Molecular Weight / g mol-1,Single Point Energy / HF,Point Group,Vibrational Frequency 6 / cm-1,Vibrational Frequency 7 / cm-1,Vibrational Frequency 8 / cm-1,Vibrational Frequency 9 / cm-1,Total Thermal Energy / HF,Total Enthalpy / HF,Entropy Term / HF,Total Gibbs Free Energy / HF,CPU time / sec,Maximum RAM mem per CPU / MB,Number of Basis Sets Used,Error Code
+HALCROW-X-F,,-2857.294040749955,C2,31.11,31.12,38.81,60.26,-2856.89064498,-2856.88970077,0.07737448,-2856.96707526,187489.28,3093.9,1195.0,
+HALCROW-X-Me,,-2737.486042955034,C1,-61.2,-60.8,31.3,31.42,-2737.01163933,-2737.01069512,0.07875694,-2737.08945207,255634.272,3069.6,1231.0,
+HALCROW-X-NMe2,,-2926.660341962722,C1,-36.14,-34.26,21.12,21.23,-2926.08904387,-2926.08809966,0.09028732,-2926.17838698,287960.48,3029.0,1391.0,
+HALCROW-X-NO2,,-3067.666162476497,C1,-39.04,-38.57,20.77,20.79,-3067.23974015,-3067.23879594,0.08232185,-3067.3211178,236877.648,3061.3,1319.0,
+HALCROW-X-pz,,-3108.598905823408,C1,16.4,19.46,21.19,27.87,-3108.06938936,-3108.06844515,0.09110204,-3108.15954719,294609.488,3074.9,1479.0,
+HALCROW-X-SH,,-3455.057024851971,C1,29.33,29.36,39.21,60.09,-3454.6368912,-3454.63594699,0.08213776,-3454.71808475,207908.96,3094.3,1219.0,
+HALCROW-X-SO2Me,,-3834.305232134107,C1,20.99,21.99,26.02,30.33,-3833.80142253,-3833.80047832,0.09456289,-3833.89504122,352164.992,3016.1,1429.0,
+HALCROW-Y-Br,,-12951.935537547333,C1,14.82,18.01,18.02,35.28,-12951.55115275,-12951.55020854,0.08980934,-12951.64001788,237777.136,3058.8,1313.0,
+HALCROW-Y-Cl,,-4496.753699615665,C1,19.19,24.49,24.5,38.31,-4496.36812299,-4496.36717878,0.08594284,-4496.45312163,197580.976,3073.4,1269.0,
+HALCROW-Y-Me,,-2816.049679077968,C1,27.66,33.79,33.88,42.48,-2815.51441845,-2815.51347424,0.08955495,-2815.6030292,286898.928,3065.9,1317.0,
+BAXFIS02,,,,,,,,,,,,,,,ORCA6 .OUT file not made
+HPZBFE,,,,,,,,,,,,,,,ORCA6 .OUT file not made
+NEFSUM02,,,,,,,,,,,,,,,ORCA6 .OUT file not made
+HALCROW-X-SOMe,,,,,,,,,,,,,,,ORCA6 .OUT file not made
+SAKWIM,,,,,,,,,,,,,,,ORCA6 .OUT file not made
+KEKVIF03,,,,,,,,,,,,,,,ORCA6 .OUT file not made
+ZUCROE,,,,,,,,,,,,,,,ORCA6 .OUT file not made
+HALCROW-X-CH2SCN,,,,,,,,,,,,,,,ORCA6 .OUT file not made
+HALCROW-X-I,,,,,,,,,,,,,,,ORCA6 .OUT file not made
+HALCROW-H,,,,,,,,,,,,,,,ORCA6 .OUT file not made
+HALCROW-X-CO2H,,,,,,,,,,,,,,,ORCA6 .OUT file not made
+HALCROW-Y-I,,,,,,,,,,,,,,,ORCA6 .OUT file not made
+HALCROW-X-Cl,,,,,,,,,,,,,,,ORCA6 .OUT file not made
+HALCROW-Y-CO2Et,,,,,,,,,,,,,,,ORCA6 .OUT file not made
+HALCROW-X-cisCHCHPh,,,,,,,,,,,,,,,ORCA6 .OUT file not made
+HALCROW-Y-tBu,,,,,,,,,,,,,,,ORCA6 .OUT file not made
+HALCROW-X-Br,,,,,,,,,,,,,,,ORCA6 .OUT file not made
+RUWZUF,,,,,,,,,,,,,,,ORCA6 .OUT file not made
+HALCROW-X-NH3,,,,,,,,,,,,,,,ORCA6 .OUT file not made
+CAGROU,,,,,,,,,,,,,,,ORCA6 .OUT file not made
+FEGVOE01,,,,,,,,,,,,,,,ORCA6 .OUT file not made
+WAHKEX,,,,,,,,,,,,,,,ORCA6 .OUT file not made
+HALCROW-Y-CH2OH,,,,,,,,,,,,,,,ORCA6 .OUT file not made
+HALCROW-X-cisCHCHC6H4NO24,,,,,,,,,,,,,,,ORCA6 .OUT file not made
+HALCROW-X-cisCHCHC6H4CN4,,,,,,,,,,,,,,,ORCA6 .OUT file not made
+BOYDOI,,,,,,,,,,,,,,,ORCA6 .OUT file not made
+ERIWEK01,,,,,,,,,,,,,,,ORCA6 .OUT file not made
+HALCROW-X-OMe,,,,,,,,,,,,,,,ORCA6 .OUT file not made
+HALCROW-X-OH,,,,,,,,,,,,,,,ORCA6 .OUT file not made
+ERIWOU01,,,,,,,,,,,,,,,ORCA6 .OUT file not made
+HALCROW-X-SMe,,,,,,,,,,,,,,,ORCA6 .OUT file not made

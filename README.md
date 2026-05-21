@@ -10,7 +10,7 @@
 
 ### 2.13: Shortlisted candidate ligands
 
-## Chapter 5
+## Chapter 5: Ground State Multiplicity and Thermal Spin Crossover Prediction of 3d Transition Metals
 
 ### 5.4 Benchmark data
 
