@@ -1,4 +1,6 @@
-# PhD Thesis Data
+# PhD Thesis Data and Code
+
+Code is saved as PhDProjectCode.py and relies on the CCDC python API, license is required
 
 ## Chapter 2: In Silico Screening for Tight-Binding Lithium Ligands
 
